@@ -122,4 +122,4 @@ See [CHANGELOG.md](CHANGELOG.md) for what's changed.
 
 ## License
 
-MIT. Use it, fork it, vendor it — no obligation back to this repo.
+GNU 3.0
